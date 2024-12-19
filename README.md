@@ -36,10 +36,12 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 Get the full <b>[LinkedIn dataset](https://brightdata.com/products/datasets/linkedin)</b>.
 
-<h2>Additional LinkedIn datasets available:</h2>
+<h2>Available LinkedIn datasets:</h2>
 
-*   524,000,000 "LinkedIn people profiles" 
-*   3,100,000 "LinkedIn job listings"
+*   526,000,000 <b>[LinkedIn profiles dataset](https://brightdata.com/products/datasets/linkedin/profiles)</b>
+*   56,400,000 <b>[LinkedIn companies dataset](https://brightdata.com/products/datasets/linkedin/company)</b>
+*   19,600,000 <b>[LinkedIn jobs dataset](https://brightdata.com/products/datasets/linkedin/jobs)</b>
+*   1,300,000 <b>[LinkedIn posts dataset](https://brightdata.com/products/datasets/linkedin/posts)</b>
 
 ![LinkedIn dataset visual](https://github.com/luminati-io/Linkedin-dataset-samples/blob/main/linkedin-datasets-image.PNG)
 
