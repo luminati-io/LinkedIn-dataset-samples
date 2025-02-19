@@ -62,3 +62,11 @@ Enhance your lead generation and sales intelligence by integrating high-quality 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
 The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+
+### Want to scrape LinkedIn yourself? Use our [LinkedIn Scraper](https://brightdata.com/products/web-scraper/linkedin)
+Available LinkedIn Scrapers
+- [LinkedIn Profiles Scraper](https://brightdata.com/products/web-scraper/linkedin/profiles)
+- [LinkedIn Posts Scraper](https://brightdata.com/products/web-scraper/linkedin/post)
+- [LinkedIn Jobs Scraper](https://brightdata.com/products/web-scraper/linkedin/jobs)
+- [LinkedIn Companies Scraper](https://brightdata.com/products/web-scraper/linkedin/company)
+
