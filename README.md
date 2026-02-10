@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 LinkedIn companies</h2>
 
-![LinkedIn dataset header](https://github.com/luminati-io/LinkedIn-dataset-samples/blob/main/linkedin-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/linkedin">
+   <img src="https://github.com/luminati-io/linkedin-dataset-samples/blob/main/linkedIn-datasets.png" alt="linkedin datasets" />
+</a>
 
 A github dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -43,7 +45,9 @@ Get the full <b>[LinkedIn dataset](https://brightdata.com/products/datasets/link
 *   19,600,000 <b>[LinkedIn jobs dataset](https://brightdata.com/products/datasets/linkedin/jobs)</b>
 *   1,300,000 <b>[LinkedIn posts dataset](https://brightdata.com/products/datasets/linkedin/posts)</b>
 
-![LinkedIn dataset visual](https://github.com/luminati-io/Linkedin-dataset-samples/blob/main/linkedin-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/linkedin">
+   <img src="https://github.com/luminati-io/linkedin-dataset-samples/blob/main/dataset-promotions.png" alt="linkedin datasets" />
+</a>
 
 <h2>What are the LinkedIn datasets use cases?</h2>
 
