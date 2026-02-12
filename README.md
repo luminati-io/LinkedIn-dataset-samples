@@ -40,10 +40,10 @@ Get the full <b>[LinkedIn dataset](https://brightdata.com/products/datasets/link
 
 <h2>Available LinkedIn datasets:</h2>
 
-*   526,000,000 <b>[LinkedIn profiles dataset](https://brightdata.com/products/datasets/linkedin/profiles)</b>
-*   56,400,000 <b>[LinkedIn companies dataset](https://brightdata.com/products/datasets/linkedin/company)</b>
-*   19,600,000 <b>[LinkedIn jobs dataset](https://brightdata.com/products/datasets/linkedin/jobs)</b>
-*   1,300,000 <b>[LinkedIn posts dataset](https://brightdata.com/products/datasets/linkedin/posts)</b>
+*   660,000,000 <b>[LinkedIn profiles dataset](https://brightdata.com/products/datasets/linkedin/profiles)</b>
+*   58,400,000 <b>[LinkedIn companies dataset](https://brightdata.com/products/datasets/linkedin/company)</b>
+*   66,600,000 <b>[LinkedIn jobs dataset](https://brightdata.com/products/datasets/linkedin/jobs)</b>
+*   52,000,000 <b>[LinkedIn posts dataset](https://brightdata.com/products/datasets/linkedin/posts)</b>
 
 <a href="https://brightdata.com/products/datasets/linkedin">
    <img src="https://github.com/luminati-io/linkedin-dataset-samples/blob/main/dataset-promotions.png" alt="linkedin datasets" />
